@@ -93,7 +93,7 @@ header{
 
 .paralax img#plane{
     position: fixed;
-    transform: translateX(700px);
+    transform: translateX(1000px);
 }
 
 .second {
